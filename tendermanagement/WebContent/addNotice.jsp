@@ -91,25 +91,15 @@
 		</table>
 	</form>
 	
-      <!-- </div>
-     </div> -->
+    
      </div>
       
       
     </div> <!-- End of container-fluid-->
 	
 	
-	<!-- <div class="container" style="height:300px">
-	ucomment this if you want to add some space in the lower part of page
-	</div> -->
 
 
-
-<!-- Now from here the footer section starts-->
-                      
-<!-- Including the footer of the page -->
-    
-<jsp:include page="footer.jsp"></jsp:include>
 
 </body>
 <style>

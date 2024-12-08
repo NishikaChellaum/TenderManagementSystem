@@ -138,6 +138,5 @@
                       
 <!-- Including the footer of the page -->
     
-<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>

@@ -4,8 +4,8 @@
 <!-- For notice section go to line no 129 -->
 <html lang="en">
   <head>
-    <link rel="shortcut icon" type="image/png" href="images/Banner_Hit.png">
-    <!--link rel="shortcut icon" type="image/ico" href="images/hit_fevicon.ico"-->
+    <!-- <link rel="shortcut icon" type="image/png" href="images/Banner_Hit.png">
+    link rel="shortcut icon" type="image/ico" href="images/hit_fevicon.ico"-->
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,11 +24,11 @@
        <nav class="navbar navbar-inverse" > <!-- Navigation Bar-->
         <div class="container" >
             <div class="navbar-header my-1"> <!-- Header navigation-->
-                <a href="#" class="pull-left">
-                    <img src="images/hit1.jpg" alt="HIT Haldia" width="70px" height="70px"/>
-                </a>
+              <!--    <a href="#" class="pull-left">
+                    <img src="images/Banner_Hit.png" alt="HIT Haldia" width="50px" height="50px"/>
+                </a>-->
                     <a class="navbar-brand" href="#"><h1>Tender Management System</h1></a> <!-- Library Name fixed-->
-                    <a href="#"><p> A HIT Haldia Project</p></a>
+                    <a href="#"><p> A MIT Tender Project</p></a>
             </div>
          
             <ul class="nav navbar-nav navbar-right menusize pull-right">   <!-- Login or signup in right top corner-->

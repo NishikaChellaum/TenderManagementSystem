@@ -63,12 +63,7 @@
           
             <li>
               <!-- Form for searching any tenders or items-->
-              <form class="navbar-form hidden-xs" action="vendorSearchTender.jsp"  >
-                <div class="form-group" >
-                  <input type="text" class="form-control" placeholder="Find Tenders by Name or TenderId" style="margin-left:120px;" required>
-                </div>
-                <button type="submit" class="btn btn-primary">Search</button>
-              </form>
+             
               <!--End of form section-->
             </li>
         </ul>

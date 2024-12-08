@@ -25,7 +25,7 @@
   <div class="col-md-8">
     <div class="marquee" style="border:2px black hidden; background-color:white">
         <h4 style="background-color:black; margin-top:-1.8px; margin-bottom:1px;padding: 5px; text-align: center;color:white;font-weight:bold">
-        &nbsp; <span id="pagetitle">Galary</span></h4><!-- pagetitle id is given here -->
+        &nbsp; <span id="pagetitle">Gallery</span></h4><!-- pagetitle id is given here -->
       <div class="marquee-content" style="padding:1px;padding-top:0px; font-weight: bold; font-size: 1.1em">
       <!-- height="900" -->   
       <marquee scrollamount=0 style="min-height:750px">
@@ -35,7 +35,7 @@
                 <!-- Wrapper for slides -->
                
                 <div class="carousel-inner" style="width:100%; height: 500px !important;">
-                    <div class="item active"> <img src="images/home1.jpg" style="width:100%; height: 500px"> </div>
+                    <div class="item active"> <img src="images/download.jpg" style="width:100%; height: 500px"> </div>
                     <div class="item active"> <img src="images/library1.png" style="width:100%; height: 500px"> </div>
                     <div class="item"> <img src="images/cap.jpg" style="width:100%; height: 500px"> </div>
                     <div class="item"> <img src="images/onwork.jpg" style="width:100%; height: 500px"> </div>

@@ -80,12 +80,7 @@
       
       
       
-      <!-- <table class="tab hd brown">
-		<tr>
-			<td style="color:brown"></td>
-		</tr>
-	</table> -->
-
+     
 	<table class="tab hd blue" border="0px" cellpadding="10" cellspacing="10">
 		
 		<tr>
@@ -106,19 +101,7 @@
      </div>
       
       
-    </div> <!-- End of container-fluid-->
-	
-	
-	<!-- <div class="container" style="height:300px">
-	ucomment this if you want to add some space in the lower part of page
-	</div> -->
-
-
-
-<!-- Now from here the footer section starts-->
-                      
-<!-- Including the footer of the page -->
+    </div> 
     
-<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>

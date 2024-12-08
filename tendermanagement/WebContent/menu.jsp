@@ -58,16 +58,7 @@
            
             <li><a href="register.jsp">Register</a></li>
             
-            <li>
-              <!-- Form for searching any tenders or items-->
-              <form class="navbar-form hidden-xs" action="vendorSearchTender.jsp"  >
-                <div class="form-group" >
-                  <input type="text" class="form-control" placeholder="Find Tenders by name" style="margin-left: 150px;" required>
-                </div>
-                <button type="submit" class="btn btn-primary">Search</button>
-              </form>
-              <!--End of form section-->
-            </li>
+            
         </ul>
       </div>
     </div>

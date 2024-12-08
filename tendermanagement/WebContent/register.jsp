@@ -122,7 +122,6 @@
 <!-- Now from here the footer section starts-->
                       
 <!-- Including the footer of the page -->
-    
-<jsp:include page="footer.jsp"></jsp:include>
+
 </body>
 </html>
